@@ -6,7 +6,7 @@ The **Digital Twin** program makes it easy for companies and start-ups to simula
 
 * [Salman Mohammad](https://www.lordjavascript.com)
 * [JChance](https://www.google.com)
-* [ShajiaAsim](https://www.google.com)
+* [Aasim Shaji](https://www.google.com)
 * [David P. Lopez](http://www.DavidPLopez.com)
 
 ## Technology Stack
