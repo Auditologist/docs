@@ -1,6 +1,6 @@
 # Auditologist
 
-The **Digital Twin** program makes it easy for companies and start-ups to simulate processes and controls within their organization using an easy to use workflow designer that lets your team communicate effectively in order to ensure that your entire company is working together in the same direction. We eliminate the information silos!
+The **Digital Twin** program makes it easy for companies and start-ups to automate processes, decisions, and controls within their organization using an easy to use workflow designer that lets your team communicate effectively. Program you business logic from a GUI and ensure that your entire company is working together and towards the same objectives. We eliminate the information silos!
 
 ## Engineering Team
 
